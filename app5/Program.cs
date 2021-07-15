@@ -11,10 +11,6 @@ namespace app5
         static void Main(string[] args)
         {
             //fff
-            //
-            //
-            //
-            //
         }
     }
 }
